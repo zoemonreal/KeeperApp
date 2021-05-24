@@ -1,5 +1,4 @@
 # KeeperApp
-# MyReads Project
 
 #Overview
 
